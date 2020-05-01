@@ -6,7 +6,7 @@ This is a simple programme written in c++.This programme can open PowerShell ins
 <hr><br>
 
 <h3>Preview💻</h3>
-![GIF](preview.gif)
+<a href="https://imgflip.com/gif/3zjbbn">via Imgflip</a>
 
 <hr><br>
 <h3>License 📜</h3>
